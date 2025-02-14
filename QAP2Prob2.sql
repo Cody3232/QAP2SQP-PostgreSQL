@@ -2,7 +2,9 @@
 In order to show all of my code, I just comented out the entire code in order to be able to display it all at once. It seemed like
 in lectures we would just delete the current query and go from there. But I was unsure how that would work when handing in the QAP as that way you
 might not be able to see my work? I am sure I am just having a brain fog type moment, it's totally fine, and I just made more work for myself. 
-But i was unsure
+But i was unsure. I worked through the querys by commenting out the previous block then running the program. So i left problem 1 how i think you
+wanted it, then showed problem 2 how it looked closer to how I was doing it. In case you're confused about that
+
 
 -- Table creation for athletes
 CREATE TABLE athletes (
